@@ -1,0 +1,7 @@
+com/example/homefan/BuildConfig.java
+ com.example.homefan.BuildConfig
+com/example/homefan/MainActivity.java
+ com.example.homefan.MainActivity
+ com.example.homefan.MainActivity$1
+ com.example.homefan.MainActivity$2
+ com.example.homefan.MainActivity$3

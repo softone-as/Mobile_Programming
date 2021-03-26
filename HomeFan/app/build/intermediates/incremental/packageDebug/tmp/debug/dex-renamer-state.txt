@@ -1,0 +1,4 @@
+#Fri Mar 26 06:57:44 ICT 2021
+base.0=D\:\\KULIAH\\SAS\\Semester-4\\Pemrograman-Perangkat-Bergerak\\Praktek\\HomeFan\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
